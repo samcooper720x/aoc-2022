@@ -1,11 +1,8 @@
-# ts-starter
+# Advent of Code 2022
 
-ts-starter is a template repo with the bare essentials for TypeScript hobby projects.
+Solutions to [AoC 2022](https://adventofcode.com/2022) in TypeScript.
 
-To get started, replace all references to "todo" with the project name and details.
-Then follow the instructions below to start using the tooling.
-
-## How to use ts-starter
+## How to use
 
 ### Pre-requisites
 
